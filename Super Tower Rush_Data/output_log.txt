@@ -1,0 +1,34 @@
+Initialize engine version: 5.3.3p3 (1d2e01741d9f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti   (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Omer\Codebase\Unity\StoneTower\Builds\Win32\GameJolt\Super Tower Rush_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 0.601154 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 32fc -> priority: 1 
